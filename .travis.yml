@@ -7,4 +7,3 @@ before_install:
 script:
  - qmake -project
  - qmake kakapos.pro
- - mingw32-make
